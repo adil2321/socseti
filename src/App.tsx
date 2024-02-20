@@ -9,7 +9,7 @@ function App() {
 
   return (
     <div className="App">
-     Hello, samurai! 999999999999999999999
+     Hello, samurai! 99999999999999999999966756756
     </div>
   );
 }
