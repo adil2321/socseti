@@ -8,8 +8,14 @@ export const MyPosts = () => {
         <div>
             My posts
             <div>
-                <textarea></textarea>
-                <button>add Post</button>
+               <div>
+                   <textarea></textarea>
+               </div>
+
+                <div>
+                    <button>add Post</button>
+                </div>
+
             </div>
             <div>
                 <Post message={'Hello 11'} count={4}/>
